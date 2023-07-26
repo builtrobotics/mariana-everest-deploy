@@ -1,2 +1,2 @@
-# mariana-everest-deploy-rollover
-Repo for Everest releases with new versioning scheme
+# mariana-everest-deploy
+Deployment repository for Everest releases.
